@@ -1,8 +1,8 @@
 # Cat's Holdable Fish! (Gorilla Tag Mod)
 Give yourself a Held Tuna, placed on the right hand.
 
-image lol
-
+![Preview](https://user-images.githubusercontent.com/105093518/167679673-dc54ce22-7d3f-4a6f-b2b7-fb745ea0a701.png)
+#
 ### Details & Instructions
 - This mod will only work with **Utilla 1.5.0+** ([Latest Version](https://github.com/legoandmars/Utilla/releases/latest)).
 - Can be toggled on/off, under `.../BepInEx/config/`. (Example for [CatsFish](https://github.com/FlyinC4T/CatsFish) `.../BepInEx/config/CatsTuna.cfg`)
