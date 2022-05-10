@@ -18,5 +18,5 @@ With that, you should now have your mod installed!
 - *Yizzi* on Discord. Had me backed up with the "you should do this and not that" kinds of situations.
 - *dev.* on Discord. Without them, I wouldn't have known what "embedded resources" was for.
 - *[Seventy](https://github.com/7Seventy0)* on Github. For basically publishing the source codes of their mods lol ( ͡° ͜ʖ ͡°).
-
+#
 README 1.02
