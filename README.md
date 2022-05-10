@@ -15,8 +15,9 @@ image lol
 With that, you should now have your mod installed!
 #
 ### Credits/Thanks
-- *Yizzi* on Discord. Had me backed up with the "you should do this and not that" kinds of situations.
+- *Yizzi* on Discord. Had me backed up with the "you should do this" situations.
 - *dev.* on Discord. Without them, I wouldn't have known what "embedded resources" was for.
 - *[Seventy](https://github.com/7Seventy0)* on Github. For basically publishing the source codes of their mods lol ( ͡° ͜ʖ ͡°).
+- *[umar6419](https://free3d.com/user/umar6419)* on Free3D. For listing multiple models that are free to use including [the model for CatsFish](https://free3d.com/3d-model/tuna-fish-21843.html).
 #
 README 1.02
